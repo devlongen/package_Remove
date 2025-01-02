@@ -5,7 +5,8 @@ import sys
 packages = [
     'rembg',
     'onnxruntime',
-    'psutil'
+    'psutil',
+    'flask'
 ]
 
 # Função para instalar pacotes
